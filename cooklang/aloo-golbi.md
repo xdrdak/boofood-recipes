@@ -1,10 +1,9 @@
 >> title: Aloo Gobi (Potato Cauliflower)
 >> tags: Indian, Instant Pot, Over Rice, Side Dish
->> author: Gwyneth Pang
->> created: February 4, 2022 10:02 PM
 >> source: Indian Instant Pot Cookbook by Urvashi Pitre
 >> ingredients: oil, salt, cumin, potato, garam masala, turmeric, coriander, cayenne, tomato, water, cauliflower
 
+[- RECIPE_START -]
 -- Recipe for Aloo Gobi (Indian Potato and Cauliflower dish)
 
 [- Required equipment: Instant Pot -]
@@ -29,7 +28,9 @@ Garnish with @fresh coriander{2%tsp} [- chopped, optional -].
 
 -- Notes:
 -- This shit so quick omg!
+[- RECIPE_END -]
 
+[- SHOPPING_LIST_START -]
 [produce]
 potatoes
 cauliflower
@@ -47,3 +48,4 @@ cayenne pepper
 [pantry]
 oil
 water
+[- SHOPPING_LIST_END -]
