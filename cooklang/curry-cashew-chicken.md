@@ -1,47 +1,84 @@
 >> title: Curry Cashew Chicken
->> tags: Chicken, Thai, Curry
->> source: “Simple Thai Food” by Leela Punyaratabandhu
->> ingredients: chicken breast, green beans, cashews, curry powder, garlic, ginger, soy sauce, fish sauce, brown sugar, coconut milk, chili flakes, oil
+>> tags: Chicken, Nuts, Over Rice
+>> source: 
+>> ingredients: Butter, Garlic, Ginger, Onion, Chicken, Cashews, Spices, Tomato Paste, Chicken Broth, Green Onions, Cilantro, Lime
 
 [- RECIPE_START -]
 -- Recipe for Curry Cashew Chicken
 
-Heat @oil{2 tbsp} in a large skillet over medium-high heat.
+[- Required equipment: Bowl, Pan -]
 
-Add @garlic{3 cloves, minced} and @ginger{1%tbsp, minced} and sauté until fragrant.
+## Curry Spice Mix
 
-Add @chicken breast{2%lb, cut into bite-sized pieces} and cook until browned.
+**IMPORTANT:** Use a little more than half to marinade the chicken, and the rest to add to the sauce
 
-Stir in @curry powder{1%tbsp}, @soy sauce{2%tbsp}, @fish sauce{1%tbsp}, and @brown sugar{1%tbsp}.
+- @kosher salt{2%tsp}
+- @cumin{1.5%tsp}
+- @coriander{1%tsp}
+- @paprika{2%tsp} [- hot and/or smoked would also work well -]
+- @turmeric{0.5%tsp}
+- @cayenne{0.5%tsp}
+- @garam masala{2 generous tsp} [- or other prepared "curry powder" blends -]
 
-Add @coconut milk{1%cups} and @green beans{1%cup, chopped}.
+## Cashew Cream:
 
-Bring to a simmer and cook for 10 minutes, until the chicken is cooked through and the sauce has thickened.
+- @whole roasted cashews{0.75%cups}
+- @cold water{2%cups}
 
-Stir in @cashews{1/2 cup} and @chili flakes{1/2 tsp}.
+## Everything else:
 
-Serve hot with rice.
+- @boneless skinless chicken thighs{2 pounds}
+- @butter{2 tbsp, divided}
+- @yellow onion{1, chopped or sliced}
+- @tomato paste{2 tbsp}
+- @garlic{4 cloves, finely minced}
+- @ginger{1 tbsp, finely minced}
+- @chicken broth{1%cups}
+- @green onions{1/3 cups, sliced}
+- @cilantro{1/3 cups, freshly chopped}
+- @lime{juice of 1, plus extra wedges for serving}
 
-[- Notes:-- Adjust the level of spices to your taste.[- RECIPE_END -]
+~ Instructions ~
+
+1. Prepare spice mix according to the above.
+2. Cut the chicken into 2 inch cubes.
+3. Add approximately 3/4 of the spice mix to the chicken. Mix well to coat. Marinate and chill for 4 to 12 hours.
+4. In a pan, cook the chicken pieces for 5 minutes per side. Transfer to a bowl ensuring juices of the cooked chicken are also transferred.
+5. In the same pan, deglaze using @butter{1 tbsp}, @yellow onion{}, @garlic{}, @ginger{}, the rest of the reserved spice mix, and @tomato paste{}. Cook for about 2 minutes.
+6. Add @chicken broth{} and bring to a light boil.
+7. Add the cooked chicken and stir.
+8. Prepare the cashew cream by blending @whole roasted cashews{} and @cold water{} until smooth. Add to the pan.
+9. Lower the heat and reduce the sauce to the desired thickness.
+10. Garnish with @green onions{}, @cilantro{}, and @lime{}.
+11. Serve with extra lime wedges on the side.
+
+[- RECIPE_END -]
 
 [- SHOPPING_LIST_START -]
 [meat]
-chicken breast
+boneless skinless chicken thighs
 
 [produce]
-green beans
+yellow onion
 garlic
 ginger
+green onions
+cilantro
+lime
 
 [spices]
-curry powder
-soy sauce
-fish sauce
-brown sugar
-chili flakes
+kosher salt
+cumin
+coriander
+paprika
+turmeric
+cayenne
+garam masala
 
 [pantry]
-coconut milk
-cashews
-oil
+butter
+whole roasted cashews
+cold water
+tomato paste
+chicken broth
 [- SHOPPING_LIST_END -]
