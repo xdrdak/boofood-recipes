@@ -32,4 +32,5 @@ def rename_files(folder_path):
 
 # Example usage:
 folder_path = "./notion_export/recipes"  # Replace with your folder path
+
 rename_files(folder_path)
